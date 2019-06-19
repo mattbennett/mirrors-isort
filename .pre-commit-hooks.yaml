@@ -1,4 +1,4 @@
--   id: isort
+-   id: xisort
     name: isort
     entry: isort
     language: python
